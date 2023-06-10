@@ -1,0 +1,28 @@
+{
+  "socialmedia": [
+    {
+      "id": 1,
+      "link": "instagram.com",
+      "ad": "instagram",
+      "aciklama": "social media paylaşım platformu"
+    },
+    {
+      "id": 2,
+      "link": "facebook.com",
+      "ad": "facebook",
+      "aciklama": "social media paylaşım platformu"
+    },
+    {
+      "id": 3,
+      "link": "linkedin.com",
+      "ad": "linkedin",
+      "aciklama": "social media paylaşım platformu"
+    },
+    {
+      "id": 1686407248967,
+      "link": "hello.com",
+      "ad": "hello",
+      "aciklama": "hello"
+    }
+  ]
+}
